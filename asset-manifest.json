@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8a27e451.css",
+    "main.js": "/static/js/main.ee9386dd.js",
+    "static/js/453.549189ad.chunk.js": "/static/js/453.549189ad.chunk.js",
+    "static/media/yangjin.otf": "/static/media/yangjin.e0951f0ecb285f558f7c.otf",
+    "static/media/geumgang.png": "/static/media/geumgang.8f742df703ddc52c79bc.png",
+    "static/media/GmarketSansBold.otf": "/static/media/GmarketSansBold.03ceab7804dad3e86672.otf",
+    "static/media/GmarketSansMedium.otf": "/static/media/GmarketSansMedium.3b975ddd58dcbe363ee5.otf",
+    "static/media/GmarketSansLight.otf": "/static/media/GmarketSansLight.5d3bc33796f1cb3705f8.otf",
+    "static/media/seol-ag.png": "/static/media/seol-ag.c4678b358110470e6809.png",
+    "static/media/banner1.jpg": "/static/media/banner1.e65151f9c26d921ee412.jpg",
+    "static/media/No_Image_Available.jpg": "/static/media/No_Image_Available.e1ce751ef1b590f719f9.jpg",
+    "index.html": "/index.html",
+    "main.8a27e451.css.map": "/static/css/main.8a27e451.css.map",
+    "main.ee9386dd.js.map": "/static/js/main.ee9386dd.js.map",
+    "453.549189ad.chunk.js.map": "/static/js/453.549189ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a27e451.css",
+    "static/js/main.ee9386dd.js"
+  ]
+}
